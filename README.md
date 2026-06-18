@@ -3,7 +3,7 @@ Agriculture Intelligence Platform - README.md
 
 An AI-powered Smart Farming Application built using Python, Streamlit, Machine Learning, Pandas, NumPy, and Scikit-learn. This platform helps farmers and agricultural researchers make data-driven decisions through crop yield prediction, fertilizer recommendations, crop suggestions, and farm analytics.
 
-🚀 Features
+🚀Features
 1. Crop Yield Prediction
 Predicts crop yield based on:
 Rainfall
